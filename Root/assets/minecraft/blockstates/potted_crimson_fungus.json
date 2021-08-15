@@ -1,0 +1,10 @@
+{
+  "multipart": [
+    {"apply": {"model": "minecraft:block/crimson_pot"}},
+    {"apply": [
+    { "model": "minecraft:block/potted_crimson_fungus_1" },
+    { "model": "minecraft:block/potted_crimson_fungus_2" },
+    { "model": "minecraft:block/potted_crimson_fungus_3" }]
+    }
+               ]
+}

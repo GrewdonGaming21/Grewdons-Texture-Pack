@@ -1,0 +1,9 @@
+{
+    "variants": {
+            "": [
+        { "model": "block/bedrock1", "weight": 1 },
+        { "model": "block/bedrock2", "weight": 2 },
+        { "model": "block/bedrock3", "weight": 5 }
+            ]
+    }
+}

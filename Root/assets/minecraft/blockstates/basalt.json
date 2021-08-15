@@ -1,0 +1,23 @@
+{
+    "multipart": [
+        {   "when": { "axis": "x" },
+            "apply": [
+                { "model": "block/basalt", "x":90, "y":90 }
+            ]
+        },
+        {   "when": { "axis": "y" },
+            "apply": [
+                { "model": "block/basalt2", "weight": 1 },
+                { "model": "block/basalt2", "y":90, "uvlock": true, "weight": 1 },
+                { "model": "block/basalt2", "y":180, "uvlock": true, "weight": 1 },
+                { "model": "block/basalt2", "y":270, "uvlock": true, "weight": 1 },
+                { "model": "block/basalt", "weight": 6 }
+            ]
+        },
+        {   "when": { "axis": "z" },
+            "apply": [
+                { "model": "block/basalt", "x":90 }
+            ]
+        }
+    ]
+}

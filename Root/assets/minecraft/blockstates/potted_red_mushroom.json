@@ -1,0 +1,10 @@
+{
+  "multipart": [
+    {"apply": {"model": "minecraft:block/oak_pot"}},
+    {"apply": [
+    { "model": "minecraft:block/potted_red_mushroom_1" },
+    { "model": "minecraft:block/potted_red_mushroom_2" },
+    { "model": "minecraft:block/potted_red_mushroom_3" }]
+    }
+               ]
+}
