@@ -78,7 +78,7 @@ Texture (Folder) Tree
   - `steve.png`
   - `trident_riptide.png`
   - `trident.png`
-  - `wandering_trader.png
+  - `wandering_trader.png`
   - `witch.png`
 
 - environment
