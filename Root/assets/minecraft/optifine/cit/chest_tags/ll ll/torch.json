@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "block/torch"
+	},
+	"display": {
+		"fixed": {
+			"translation": [0, 2, 64.5]
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/poppy"
+  },
+	"display": {
+		"fixed": {
+			"translation": [0, 2, 64.5]
+		}
+	}
+}
