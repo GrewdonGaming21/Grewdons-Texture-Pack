@@ -19,4 +19,4 @@ To test: move files here
 - For Windows, `right click` on the `start button` → `run` → type in `%appdata%` → `.minecraft` → `resourcepacks` 
     - (Or `Win+r` → type in `%appdata%` → `.minecraft` → `resourcepacks`
 - For MacOS, go to `Library` → `Application Support` → `minecraft` → `resourcepacks`
-- For Linux, go to ~/.minecraft/resourcepacks (/home/<username>/.minecraft/resourcepacks)
+- For Linux, go to `~/.minecraft/resourcepacks` (`/home/<username>/.minecraft/resourcepacks`)
