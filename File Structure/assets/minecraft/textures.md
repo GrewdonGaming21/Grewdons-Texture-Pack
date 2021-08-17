@@ -49,11 +49,11 @@ Texture (Folder) Tree
   - wolf
   - zombie
   - zombie_villager
-  - ![alex](https://user-images.githubusercontent.com/62030558/129766856-310706ad-6a59-44fb-8496-a31d62b164b4.png)
-  - ![banner_base](https://user-images.githubusercontent.com/62030558/129766860-e0cdd5bb-6d85-4a7b-b9f9-320f1ec45cdb.png)
-  - ![bat](https://user-images.githubusercontent.com/62030558/129766863-7e35e55f-8c94-4592-a988-0d5ef33a2648.png)
-  - ![beacon_beam](https://user-images.githubusercontent.com/62030558/129766865-2d997eab-47db-4097-a4e5-52081f3eceb8.png)
-  - ![blaze](https://user-images.githubusercontent.com/62030558/129766867-02f7472d-f81b-4396-b33d-689db923b002.png)
+  - `alex.png`
+  - `banner_base.png`
+  - `bat.png`
+  - `beacon_beam.png`
+  - `blaze.png`
   - ![chicken](https://user-images.githubusercontent.com/62030558/129766868-1ce860c2-7c95-4927-bcbc-a7e8f1df102e.png)
   - ![dolphin](https://user-images.githubusercontent.com/62030558/129766869-2b1ac8d1-c08c-4b54-b97b-cd25b8676ed2.png)
   - ![elytra](https://user-images.githubusercontent.com/62030558/129766870-73f02352-9aa6-490f-aab3-8a877b4eed70.png)
