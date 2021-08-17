@@ -2,7 +2,7 @@ Texture (Folder) Tree
 - block
 - colormap
 - effect
-- entity
+- entity (Folder) Branch
   - armorstand
   - axolotl
   - banner
