@@ -15,3 +15,7 @@ The value of "`pack_format`" tells Minecraft what release the resource pack is d
 `6` for versions `1.16.2` – `1.16.5`
 
 `7` for versions `1.17+`
+
+"`description`"
+
+The text following "`description`" is displayed under the pack title in the selection menu, and must be put inside quotes "` `". If you wish to use special characters, you can enter the Unicode code for the character in the format `\u####`, where `####` is the Unicode hex code for the character. Say you want to use the letter `Þ` (`Thorn`), which has code `U+00DE`. Inside the description you would type `\u00DE`. Make sure that you are using the correct slash, or it may not work. A list of Unicode codes can be found [here](https://en.wikipedia.org/wiki/List_of_Unicode_characters). Note: Only the characters `0000-FFFF` (`BMP`) are supported
