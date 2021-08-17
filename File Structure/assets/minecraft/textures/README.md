@@ -2,6 +2,52 @@
 - colormap
 - effect
 - entity
+  - armorstand
+  - axolotl
+  - banner
+  - bear
+  - bed
+  - bee
+  - bell
+  - boat
+  - cat
+  - chest
+  - conduit
+  - cow
+  - creeper
+  - end_crystal
+  - enderdragon
+  - enderman
+  - fish
+  - fox
+  - ghast
+  - goat
+  - hoglin
+  - horse
+  - illager
+  - iron_golem
+  - llama
+  - panda
+  - parrot
+  - pig
+  - piglin
+  - projectiles
+  - rabbit
+  - sheep
+  - shield
+  - shulker
+  - signs
+  - skeleton
+  - slime
+  - spider
+  - squid
+  - strider
+  - turtle
+  - villager
+  - wither
+  - wolf
+  - zombie
+  - zombie_villager
 - environment
 - font
 - gui
