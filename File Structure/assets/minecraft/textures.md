@@ -54,30 +54,30 @@ Texture (Folder) Tree
   - `bat.png`
   - `beacon_beam.png`
   - `blaze.png`
-  - ![chicken](https://user-images.githubusercontent.com/62030558/129766868-1ce860c2-7c95-4927-bcbc-a7e8f1df102e.png)
-  - ![dolphin](https://user-images.githubusercontent.com/62030558/129766869-2b1ac8d1-c08c-4b54-b97b-cd25b8676ed2.png)
-  - ![elytra](https://user-images.githubusercontent.com/62030558/129766870-73f02352-9aa6-490f-aab3-8a877b4eed70.png)
-  - ![enchanting_table_book](https://user-images.githubusercontent.com/62030558/129766871-f10a0021-763b-459c-8246-f54fa7b1c723.png)
-  - ![end_gateway_beam](https://user-images.githubusercontent.com/62030558/129766872-423c9da5-558a-442e-834b-a326641f5bef.png)
-  - ![end_portal](https://user-images.githubusercontent.com/62030558/129766874-5d494b92-8e17-40fd-b212-434a592f2bc2.png)
-  - ![endermite](https://user-images.githubusercontent.com/62030558/129766875-bff368c9-278f-43f7-8a85-7c7dbeab64e6.png)
-  - ![experience_orb](https://user-images.githubusercontent.com/62030558/129766876-a5befc78-ff10-489c-809f-4ff6c5728cff.png)
-  - ![fishing_hook](https://user-images.githubusercontent.com/62030558/129766877-b326462e-d89b-43fa-99bc-b2a04972f40d.png)
-  - ![guardian_beam](https://user-images.githubusercontent.com/62030558/129766878-8245591c-d052-4d98-a89c-4b96dbc9389e.png)
-  - ![guardian_elder](https://user-images.githubusercontent.com/62030558/129766881-4f712a87-8b0e-49e3-9441-202b6b840228.png)
-  - ![guardian](https://user-images.githubusercontent.com/62030558/129766883-663b25c4-8247-4507-9618-2d3ec3123550.png)
-  - ![lead_knot](https://user-images.githubusercontent.com/62030558/129766886-1ac7a62a-93fa-407d-92a3-409224351499.png)
-  - ![minecart](https://user-images.githubusercontent.com/62030558/129766887-34a8e7b8-0142-4a2d-826c-bcdfc1a90117.png)
-  - ![phantom_eyes](https://user-images.githubusercontent.com/62030558/129766889-69375ade-43a1-4c0f-881c-39d5bca5afff.png)
-  - ![phantom](https://user-images.githubusercontent.com/62030558/129766890-1435977f-3b40-48ab-b566-6b4c4db3e7ad.png)
-  - ![shield_base_nopattern](https://user-images.githubusercontent.com/62030558/129766891-bfd26b52-d171-42dd-9453-22911244711c.png)
-  - ![shield_base](https://user-images.githubusercontent.com/62030558/129766893-e77b50d4-1df7-4289-8bf8-c8ad6d98ada9.png)
-  - ![silverfish](https://user-images.githubusercontent.com/62030558/129766894-9d4864c8-76ad-4ff5-915a-afb4fdef7817.png)
-  - ![snow_golem](https://user-images.githubusercontent.com/62030558/129766895-35dc353b-3b9e-4f6e-bf8b-5903c17fe511.png)
-  - ![spider_eyes](https://user-images.githubusercontent.com/62030558/129766899-18d89181-b8e2-4fe9-ba9d-6ce06afa8f7b.png)
-  - ![steve](https://user-images.githubusercontent.com/62030558/129766900-08abd8e5-4f8d-4cee-bcaf-2127b8bb6a84.png)
-  - ![trident_riptide](https://user-images.githubusercontent.com/62030558/129766901-2c7af072-ab5e-49ab-abdc-41cde7de72aa.png)
-  - ![trident](https://user-images.githubusercontent.com/62030558/129766903-0be88605-e91a-452e-a6af-59d82e617298.png)
+  - `chicken.png`
+  - `dolphin.png`
+  - `elytra.png`
+  - `enchanting_table_book.png`
+  - `end_gateway_beam.png`
+  - `end_portal.png`
+  - `endermite.png`
+  - `experience_orb.png`
+  - `fishing_hook.png`
+  - `guardian_beam.png`
+  - `guardian_elder.png`
+  - `guardian.png`
+  - `lead_knot.png`
+  - `minecart.png`
+  - `phantom_eyes.png`
+  - `phantom.png`
+  - `shield_base_nopattern.png`
+  - `shield_base.png`
+  - `silverfish.png`
+  - `snow_golem.png`
+  - `spider_eyes.png`
+  - `steve.png`
+  - `trident_riptide.png`
+  - `trident.png`
   - ![wandering_trader](https://user-images.githubusercontent.com/62030558/129766904-2b3adb58-061f-4c4f-b4d9-b52791834b50.png)
   - ![witch](https://user-images.githubusercontent.com/62030558/129766905-f431ddd3-c9a3-4723-9653-4e77a0b18e14.png)
 
