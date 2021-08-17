@@ -78,8 +78,8 @@ Texture (Folder) Tree
   - `steve.png`
   - `trident_riptide.png`
   - `trident.png`
-  - ![wandering_trader](https://user-images.githubusercontent.com/62030558/129766904-2b3adb58-061f-4c4f-b4d9-b52791834b50.png)
-  - ![witch](https://user-images.githubusercontent.com/62030558/129766905-f431ddd3-c9a3-4723-9653-4e77a0b18e14.png)
+  - `wandering_trader.png
+  - `witch.png`
 
 - environment
 - font
