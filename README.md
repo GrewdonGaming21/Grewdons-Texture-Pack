@@ -1,5 +1,5 @@
 # Grewdon's Texture Pack
-Version Compatabilty: 1.17.X
+Version Compatabilty: 1.17.0 - 1.17.1
 
 
 Credits:
