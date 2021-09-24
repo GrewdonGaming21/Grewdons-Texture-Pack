@@ -2,6 +2,8 @@
     "language.name": "English",
     "language.region": "United States",
     "language.code": "en_us",
+    "item.minecraft.experience_bottle": "ยงbBottle o' Souls",
+    "entity.minecraft.experience_bottle": "Thrown Bottle o' Souls",
 
 // Banner Pattern
     "item.minecraft.flower_banner_pattern.desc": "§f\u5139 §rFlower Charge", 
