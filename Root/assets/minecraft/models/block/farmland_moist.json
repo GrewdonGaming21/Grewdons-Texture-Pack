@@ -3,7 +3,7 @@
 	"parent": "minecraft:block/template_farmland",
 	"textures": {
 		"2": "block/farmland_moist_side",
-		"3": "block/farmland_moist_side _2",
+		"3": "block/farmland_moist_side_2",
 		"dirt": "block/dirt",
 		"top": "block/farmland_moist",
 		"particle": "block/farmland_moist_side"
