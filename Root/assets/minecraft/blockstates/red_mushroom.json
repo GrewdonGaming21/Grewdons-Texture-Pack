@@ -1,9 +1,0 @@
-{
-  "variants": {
-    "": [
-      { "model": "minecraft:block/red_mushroom_1" },
-      { "model": "minecraft:block/red_mushroom_2" },
-      { "model": "minecraft:block/red_mushroom_3" }
-        ]
-              }
-}
