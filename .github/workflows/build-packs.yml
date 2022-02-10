@@ -1,35 +1,28 @@
-name: build-resource-pack
+name: Compile Resource Packs
 on: [push]
 jobs:
-  check-bats-version:
+  build:
     runs-on: ubuntu-latest
     steps:
+      - name: Check Changes
+        id: version
+        uses: Soumeh/Auto-Versioning@main
       - name: Checkout Repo
         uses: actions/checkout@v2
-      # copy-paste this part for however many packs you want to build
-      - name: Build Pack
+      - name: Build Packs
         uses: Sorrowfall/Resource-Packager@main
         with:
-          # The name of the built pack
-          filename: GrewdonsTexturePack
-          # The directories / files to be built into the pack
-          # Directories take priority as they go down the list, replacing any files from the above directories
-          items: |
+          filename: GrewdonsTexturePack # Change this for a different Resource Pack name
+          items: | # Change these depending on what folders you're using
             Root
-          # What directory to output files in
-          output-folder: build
-          # Whether or not to optimize .json (and .mcmeta json) files
-          optimize-jsons: true
-          # Whether or not to generate a Sha1 hash of the built pack 
-          # Useful for server resource packs
-          # default: false
           gen-sha1: false
-      # copy-paste down to here
-      - name: Publish
-        uses: EndBug/add-and-commit@v7
+      - name: Create Release
+        uses: meeDamian/github-release@2.0
         with:
-          author_name: Builder[bot]
-          author_email: mail@unmail.com
-          branch: 'build'
-          branch_mode: create
-          message: 'Build pack(s)'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          name: ${{ github.event.head_commit.message }}
+          tag: v${{ steps.version.outputs.tag }}
+          body: "${{ steps.version.outputs.changelog }}"
+          gzip: false
+          files: > # Change these depending on the filename above
+            build/GrewdonsTexturePack.zip 
