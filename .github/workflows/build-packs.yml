@@ -1,27 +1,35 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
-
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push or pull request events but only for the main branch
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+name: build-resource-pack
+on: [push]
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  check-bats-version:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Resource Packager
-        uses: Sorrowfall/Resource-Packager@v2.1
-
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+      # copy-paste this part for however many packs you want to build
+      - name: Build Pack
+        uses: Sorrowfall/Resource-Packager@main
+        with:
+          # The name of the built pack
+          filename: GrewdonsTexturePack
+          # The directories / files to be built into the pack
+          # Directories take priority as they go down the list, replacing any files from the above directories
+          items: |
+            Root
+          # What directory to output files in
+          output-folder: build
+          # Whether or not to optimize .json (and .mcmeta json) files
+          optimize-jsons: true
+          # Whether or not to generate a Sha1 hash of the built pack 
+          # Useful for server resource packs
+          # default: false
+          gen-sha1: false
+      # copy-paste down to here
+      - name: Publish
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: Builder[bot]
+          author_email: mail@unmail.com
+          branch: 'build'
+          branch_mode: create
+          message: 'Build pack(s)'
