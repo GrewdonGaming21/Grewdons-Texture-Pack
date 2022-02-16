@@ -15,7 +15,7 @@ jobs:
           filename: GrewdonsTexturePack # Change this for a different Resource Pack name
           items: | # Change these depending on what folders you're using
             Root
-          gen-sha1: false
+          gen-sha1: true
       - name: Create Release
         uses: meeDamian/github-release@2.0
         with:
