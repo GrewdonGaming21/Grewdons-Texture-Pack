@@ -2,8 +2,8 @@
 	"credit": "Created by Stridey",
 	"parent": "block/block",
 	"textures": {
-		"1": "block/note_block_pitch/numerical_24",
-		"2": "block/note_block_pitch/pitch_24",
+		"1": "block/note_block_pitch/numerical_19",
+		"2": "block/note_block_pitch/pitch_19",
 		"3": "block/note_block",
 		"particle": "block/note_block",
 		"top": "block/note_block_pitch/note_block_side"
