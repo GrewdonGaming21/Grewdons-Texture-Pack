@@ -13,7 +13,7 @@ jobs:
         uses: Sorrowfall/Resource-Packager@main
         with:
           filename: GrewdonsTexturePack # Change this for a different Resource Pack name
-          items: | # Change these depending on what folders you're using
+          items: | # Change these depending on what folders you're usin
             Root
           optimize-jsons: false
           gen-sha1: false
