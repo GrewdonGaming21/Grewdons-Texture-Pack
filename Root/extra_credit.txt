@@ -1,5 +1,10 @@
 Vanilla Tweaks Team: https://vanillatweaks.net/about/
+- Prismarine Tweaks (ForeverVanilla)
+- Better Chiselds (ForeverVanilla)
+
 Forever Vanilla: https://forevervanilla9.webnode.hu/rolunk/
+- 
+
 TheWaterDragon567: https://www.youtube.com/channel/UCGehlB6360SpDFbwbj7hvIw/about
 DnatorGames: https://twitter.com/DnatorGames
 
@@ -25,3 +30,31 @@ Music Disc Name Tweaks - Java Edition: https://www.planetminecraft.com/texture-p
 Little Improvements: Redstone: https://www.planetminecraft.com/texture-pack/little-improvements-redstone/
 Silent Elder Guardian Curse: https://www.planetminecraft.com/texture-pack/silent-elder-guardian-curse/
 Connectibles: https://www.planetminecraft.com/texture-pack/connectibles/
+Better Heads Holding: https://www.planetminecraft.com/texture-pack/better-heads/
+Loading Screens: https://www.planetminecraft.com/texture-pack/loading-screens/
+end moon: https://www.planetminecraft.com/texture-pack/end-moon-4964177/
+Obsidian style/Обсидиановый стиль: https://www.planetminecraft.com/texture-pack/obsidian-style/
+Biome Specific Sweet Berry Bushes: https://www.planetminecraft.com/texture-pack/biome-specific-sweet-berry-bushes/
+Unique Spawn Eggs: https://www.planetminecraft.com/texture-pack/1-13-1-16-unique-spawn-eggs/
+New Beams&Beacons [1.4] [purple] [green] [grey] [blue] [red] [Gold] [Rainbow]: https://www.planetminecraft.com/texture-pack/new-beamsbeacons-14-purple-green-grey-blue-red/
+Farmland Sides: https://www.planetminecraft.com/texture-pack/farmland-sides/
+😱 Soul Enchanting (1.18): https://www.planetminecraft.com/texture-pack/soul-enchanting/
+No Nether Fog in Vanilla [no Optifine Required]: https://www.planetminecraft.com/texture-pack/no-nether-fog-in-vanilla-no-optifine-required/
+Boss Bars Plus: https://www.planetminecraft.com/texture-pack/boss-bars-plus/
+Name Tags Plus: https://www.planetminecraft.com/texture-pack/name-tags-plus/
+Mr. Incognito's GUI Redesign (Dark Mode) 1.17.1: https://www.planetminecraft.com/texture-pack/mr-incognito-s-gui-redesign-dark-mode/
+Lively Loading Screen (Optifine Required): https://www.planetminecraft.com/texture-pack/lively-loading-screen-optifine-required/
+Biome-Dependent Blocks (Optifine Required): https://www.planetminecraft.com/texture-pack/biome-dependent-blocks-optifine-required/
+Colourful Containers Dark Mode GUI (Optifine Required): https://www.planetminecraft.com/texture-pack/colourful-containers-dark-mode-gui-optifine-required/
+Better Background Advancements: https://www.planetminecraft.com/texture-pack/better-background-advancements/
+Visual Target Levels: https://www.planetminecraft.com/texture-pack/visual-target-levels/
+Pablo's HUD Icons: https://www.planetminecraft.com/texture-pack/pablo-s-hud-icons/
+Visual Leaf Decay: https://www.planetminecraft.com/texture-pack/visual-leaf-decay/
+Visual Cartography [OptiFine]: https://www.planetminecraft.com/texture-pack/visual-cartography-optifine/
+Visual Fireworks [OptiFine]: https://www.planetminecraft.com/texture-pack/visual-fireworks-optifine/
+Soul Magma (Optifine Required): https://www.planetminecraft.com/texture-pack/soul-magma-optifine-required/
+Colored Axolotl Buckets With Babies: https://www.planetminecraft.com/texture-pack/colored-axolotl-buckets-with-babies/
+Directional End Portals: https://www.planetminecraft.com/texture-pack/directional-end-portals/
+Stare's Trustworthy Stew: https://www.planetminecraft.com/texture-pack/stare-s-trustworthy-stew/
+damage indicator for anvil !: https://www.planetminecraft.com/texture-pack/addon-for-the-black-and-white-texture-pack/
+Progressive Anchors: https://www.planetminecraft.com/texture-pack/progressive-anchors/
