@@ -1,5 +1,5 @@
 Vanilla Tweaks Team: https://vanillatweaks.net/about/
-- [Selected Packs (Vanilla Tweaks).txt](https://github.com/GrewdonGaming21/Grewdons-Texture-Pack/blob/1c54a50f5c0fca03a23eb433e4d2b1bcf16f7a2e/Root/Selected%20Packs%20(Vanilla%20Tweaks).txt)
+- Selected Packs - https://github.com/GrewdonGaming21/Grewdons-Texture-Pack/blob/1c54a50f5c0fca03a23eb433e4d2b1bcf16f7a2e/Root/Selected%20Packs%20(Vanilla%20Tweaks).txt
 
 Forever Vanilla: https://forevervanilla9.webnode.hu/rolunk/
 - Prismarine Tweaks (ForeverVanilla)
