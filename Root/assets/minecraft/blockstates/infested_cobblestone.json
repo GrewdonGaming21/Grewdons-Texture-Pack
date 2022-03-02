@@ -1,5 +1,7 @@
 {
-    "variants": {
-        "": { "model": "block/infested_cobblestone" }
+  "variants": {
+    "": {
+      "model": "minecraft:block/infested_cobblestone"
     }
+  }
 }
