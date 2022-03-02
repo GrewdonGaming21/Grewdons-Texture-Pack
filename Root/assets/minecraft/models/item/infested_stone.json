@@ -1,6 +1,3 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:item/infested_stone"
-  }
+  "parent": "minecraft:block/infested_stone"
 }
