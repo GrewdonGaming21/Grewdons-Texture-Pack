@@ -2,7 +2,7 @@
 	"credit": "Made by Clyred",
 	"parent": "block/note_block",
 	"textures": {
-	  "note": "block/note_block_notes/note_0",
+	  "note": "block/note_block_notes/note_22",
 		"instrument": "block/note_block_instruments/hat"
 	}
 }
