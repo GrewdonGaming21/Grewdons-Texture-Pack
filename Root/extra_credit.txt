@@ -27,7 +27,7 @@ Quieter Anvils Sound Pack: https://www.planetminecraft.com/texture-pack/quieter-
 Quieter Glass/Exp Bottles Sound Pack: https://www.planetminecraft.com/texture-pack/quieter-glass-exp-bottles-sound-pack/
 Lava Recolor Pack (Optifine Required): https://www.planetminecraft.com/texture-pack/lava-recolor-pack/
 Music Disc Name Tweaks - Java Edition: https://www.planetminecraft.com/texture-pack/music-disc-name-tweaks-java-edition/
-Little Improvements: Redstone: https://www.planetminecraft.com/texture-pack/little-improvements-redstone/
+Little Improvements: Redstone: https://www.planetminecraft.com/texture-pack/little-improvements-redstone/ (Daylight Detector)
 Silent Elder Guardian Curse: https://www.planetminecraft.com/texture-pack/silent-elder-guardian-curse/
 Connectibles: https://www.planetminecraft.com/texture-pack/connectibles/
 Better Heads Holding: https://www.planetminecraft.com/texture-pack/better-heads/
