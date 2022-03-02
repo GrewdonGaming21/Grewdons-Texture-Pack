@@ -60,3 +60,4 @@ damage indicator for anvil !: https://www.planetminecraft.com/texture-pack/addon
 Progressive Anchors: https://www.planetminecraft.com/texture-pack/progressive-anchors/
 XXVI's Infested Blocks: https://www.planetminecraft.com/texture-pack/xxvi-s-infested-blocks-1-18-5498213/
 Better Stone to Deepslate Transition: https://www.planetminecraft.com/texture-pack/better-stone-to-deepslate-transition/
+Clyred's Notes: https://www.planetminecraft.com/texture-pack/display-noteblocks/
